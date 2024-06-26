@@ -9651,3 +9651,6 @@ a.text-dark:hover, a.text-dark:focus {
 .banner-categorias{
   min-height: 100px;
 }
+.text-products {
+  font-size: small;
+}
