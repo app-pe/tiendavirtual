@@ -33,7 +33,7 @@ class Products {
     }
 }
 //console.log("data---");
-const data = await new Products("../model/bd-app.json").getSingleProduct()
+const data = await new Products("/model/bd-app.json").getSingleProduct()
 //console.log(data);
 
 export {datos,data}
