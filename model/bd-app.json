@@ -6,8 +6,8 @@
             "descripcion_tienda": "Tienda de ropa con propósito",
             "ruc": 1234777999,
             "razon_social": "Inpactum S.A",
-            "imagen_logo": "/img/tiendas/inpactum/logo_inpactum.jpg",
-            "imagen_banner": "/img/tiendas/inpactum/banner_inpactum.jpg",
+            "imagen_logo": "./img/tiendas/inpactum/logo_inpactum.jpg",
+            "imagen_banner": "./img/tiendas/inpactum/banner_inpactum.jpg",
             "url_imagen_tienda":"img/tiendas/inpactum/"
         },
         {
@@ -16,8 +16,8 @@
             "descripcion_tienda": "Tienda de ropa con propósito",
             "ruc": 1234777999,
             "razon_social": "Blueplhare S.A",
-            "imagen_logo": "/img/tiendas/bp/logo_bp.jpg",
-            "imagen_banner": "/img/tiendas/bp/banner_bp.jpg",
+            "imagen_logo": "./img/tiendas/bp/logo_bp.jpg",
+            "imagen_banner": "./img/tiendas/bp/banner_bp.jpg",
             "url_imagen_tienda":"img/tiendas/bp/"
         }
     ],
